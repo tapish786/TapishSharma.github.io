@@ -5,10 +5,10 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Data Science?Machine Learning Intern",
+    title: "Full Stack Developer",
     cardImage: "./assets/images/experience-page/softcentre.png",
-    place: "SoftCentre",
-    time: "(Augest, 2025 - September, 2025)",
+    place: "Flikt Pvt ltd",
+    time: "(january - Febuary, 2026)",
     desp: `
     As part of the <b>Product development</b> team, my missions were as follows:
     <ul>
@@ -18,10 +18,10 @@ const exp = [
     `,
   },
   {
-    title: "Web developer",
+    title: "Software developer",
     cardImage: "./assets/images/experience-page/rtc.jpg",
     place: "Online",
-    time: "(July, 2025 - August, 2025)",
+    time: "(Febuary, 2026 - april, 2026)",
     desp: `
     As a former <b>Govt. Engineering College Ajmer</b>, The platform aims to provide:
     <ul>
@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded", showCards1);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "sktime",
+    title: "Veterance India",
     cardImage:
       "./assets/images/experience-page/sktime.jpg",
     description: "A unified framework for Time Series Analysis and Machine Learning.",
@@ -97,7 +97,7 @@ const clubsection = document.querySelector(".club-section");
 const mentor = [
   {
     title: "Intern At Ybi Foundation",
-    subtitle: "Club Informatique & Télécom at INPT",
+    subtitle: "Machine Learning Student",
     image: "./assets/images/experience-page/cit.png",
     desp: "CIT club offers free courses given by INPT students in different sectors, mine was the web dev field in which i gave courses in the web development field for both 1st & 2nd year students at INPT.",
   },
